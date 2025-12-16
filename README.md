@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pulkitz
 - 👀 I’m interested in HTML,CSS,PYTHON and c++ and many more.
-- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on websites and learning projects.
 - 📫 How to reach me kushwahpulkit9@gmail.com
 - 😄 Pronouns: he/him
