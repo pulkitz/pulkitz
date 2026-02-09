@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @pulkitz
-- 👀 I’m interested in HTML,CSS,PYTHON and c++ and many more.
-- 💞️ I’m looking to collaborate on websites and learning projects.
-- 📫 How to reach me kushwahpulkit9@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a student
+# こにちわ, I am PULKIT!
 
 <!---
 pulkitz/pulkitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
